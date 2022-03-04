@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ApiWebPrueba.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ApiWebPrueba.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ApiWebPrueba.Infrastructure.dll": {}
+        }
+      },
+      "ApiWebPrueba.Domain/1.0.0": {
+        "runtime": {
+          "ApiWebPrueba.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiWebPrueba.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiWebPrueba.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

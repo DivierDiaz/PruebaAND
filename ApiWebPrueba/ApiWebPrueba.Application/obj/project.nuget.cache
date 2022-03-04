@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqbrA6EFqqEw8koCZEdeSltb7mJkTRaaT4IJdFcHEB0YYAX3yvQ4bRB1pHaKhM8G+PX7+sVsQHjbjk0DuNbgPw==",
+  "success": true,
+  "projectFilePath": "D:\\ANDPrueba\\ApiWebPrueba\\ApiWebPrueba.Application\\ApiWebPrueba.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ddiaz\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Ddiaz\\.nuget\\packages\\automapper.extensions.expressionmapping\\4.1.1\\automapper.extensions.expressionmapping.4.1.1.nupkg.sha512",
+    "C:\\Users\\Ddiaz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ddiaz\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
